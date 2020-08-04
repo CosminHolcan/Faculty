@@ -1,1 +1,3 @@
 One application with cruel operations, having Graphic User Interface and using the Observer pattern
+The idea of the application is that you have two mods : A ( you use a database to add, remove, update victims) and B( you are the user of the database, 
+meaning that you can add victims in your own database, see pictures of them). Also, you can undo/redo some operations ( mode A for mode A, and B for B)
