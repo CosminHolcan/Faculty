@@ -1,0 +1,7 @@
+Cosmin,programmer
+Vranciu,tester
+Sebi,programmer
+Imre,tester
+Alin,tester
+Ovi,programmer
+Mocanu,tester
