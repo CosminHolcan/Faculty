@@ -1,0 +1,5 @@
+repository = text files
+students = students.txt
+subjects = subjects.txt
+grades = grades.txt
+ui = GUI
