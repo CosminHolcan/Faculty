@@ -1,0 +1,5 @@
+Math1 , Algebra
+Math2 , Analysis
+Math3 , Logic
+CS1 , FP
+CS2 , ASC
