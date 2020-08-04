@@ -1,0 +1,7 @@
+X-AE-A-12,USA,1,robochild.jpg
+abc,def,12,ghi
+Michael Jackson,USA,50,the_king_of_pop.jpg
+Picasso,Espanha,91,pabloPicasso.jpg
+Elvis,USA,42,TheKing.jpg
+Pablo Escobar,Colombia,44,ElPatron.jpg
+hai,vifkr,15,dadas.kpg
