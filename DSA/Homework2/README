@@ -1,0 +1,1 @@
+SortedMap - using a SLL with (key, value) pairs ordered based on a relation on the keys.
